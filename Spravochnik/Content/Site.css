@@ -1,0 +1,51 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+    outline: none;
+    outline-width: medium;
+    outline-style: none;
+    outline-color: -moz-use-text-color;
+    font-family: 'Open Sans', 'Segoe UI', sans-serif;
+
+    background: -webkit-linear-gradient(top, #dad7cf 0%, #ffffff 100%);
+    background-color: transparent;
+    background-image: -moz-linear-gradient(center top , rgb(218, 215, 207) 0%, rgb(255, 255, 255) 100%);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto auto;
+    background: linear-gradient(to bottom, #dad7cf 0%, #ffffff 100%);
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgb(218, 215, 207) 0%, rgb(255, 255, 255) 100%);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto auto;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}

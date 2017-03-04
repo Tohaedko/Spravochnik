@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+
+<div class="container">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <h2>Please sign in</h2>
+        <p>
+            <label class="sr-only">Username</label>
+            <input name="username" class="form-control" placeholder="Username" required="" autofocus="">
+        </p>
+        <p>
+            <label class="sr-only">Password</label>
+            <input type="password" name="password" class="form-control" placeholder="Password" required="">
+        </p>
+        <input type="submit" class="btn btn-sm btn-primary btn-block" value="Log in" />
+    }
+</div>

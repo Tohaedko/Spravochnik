@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Spravochnik_Api.UpdateDB" CodeBehind="UpdateDB.svc.cs" %>

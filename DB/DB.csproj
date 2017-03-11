@@ -49,12 +49,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DBContext.cs" />
+    <Compile Include="Localization.cs" />
+    <Compile Include="Location.cs" />
+    <Compile Include="LocationXLocalization.cs" />
+    <Compile Include="MedicalServiceGroupsXLocalization.cs" />
+    <Compile Include="MedicalServiceGroups.cs" />
+    <Compile Include="Migrations\201703111500332_1.cs" />
+    <Compile Include="Migrations\201703111500332_1.Designer.cs">
+      <DependentUpon>201703111500332_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="PriceList.cs" />
+    <Compile Include="ServiceXLocalization.cs" />
+    <Compile Include="ServiceXMedicalServiceGroups.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service.cs" />
+    <Compile Include="ServiceXService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201703111500332_1.resx">
+      <DependentUpon>201703111500332_1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

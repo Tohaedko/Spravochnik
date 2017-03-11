@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="DictionaryService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="https://api.synevo.ua/ua/Dictionary.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="https://api.synevo.ua/ua/Dictionary.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="https://api.synevo.ua/ua/Dictionary.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/Message" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IDictionaryService_GetLocations_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetLocations" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetLocations_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetLocationsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetSubstances_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSubstances" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetSubstances_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSubstancesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetServices_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetServices" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetServices_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetServicesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetMedicalServiceGroups_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMedicalServiceGroups" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetMedicalServiceGroups_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMedicalServiceGroupsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetPriceList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPriceList" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetPriceList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPriceListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetPatientQuestions_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPatientQuestions" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetPatientQuestions_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPatientQuestionsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetTubes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTubes" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetTubes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTubesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetDiscounts_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDiscounts" />
+  </wsdl:message>
+  <wsdl:message name="IDictionaryService_GetDiscounts_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDiscountsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IDictionaryService">
+    <wsdl:operation name="GetLocations">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetLocations" message="tns:IDictionaryService_GetLocations_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetLocationsResponse" message="tns:IDictionaryService_GetLocations_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSubstances">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetSubstances" message="tns:IDictionaryService_GetSubstances_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetSubstancesResponse" message="tns:IDictionaryService_GetSubstances_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServices">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetServices" message="tns:IDictionaryService_GetServices_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetServicesResponse" message="tns:IDictionaryService_GetServices_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMedicalServiceGroups">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetMedicalServiceGroups" message="tns:IDictionaryService_GetMedicalServiceGroups_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetMedicalServiceGroupsResponse" message="tns:IDictionaryService_GetMedicalServiceGroups_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPriceList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetPriceList" message="tns:IDictionaryService_GetPriceList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetPriceListResponse" message="tns:IDictionaryService_GetPriceList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPatientQuestions">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetPatientQuestions" message="tns:IDictionaryService_GetPatientQuestions_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetPatientQuestionsResponse" message="tns:IDictionaryService_GetPatientQuestions_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTubes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetTubes" message="tns:IDictionaryService_GetTubes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetTubesResponse" message="tns:IDictionaryService_GetTubes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDiscounts">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDictionaryService/GetDiscounts" message="tns:IDictionaryService_GetDiscounts_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDictionaryService/GetDiscountsResponse" message="tns:IDictionaryService_GetDiscounts_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="DictionaryService" />
+</wsdl:definitions>

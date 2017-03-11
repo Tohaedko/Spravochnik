@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="79858df8-9b3e-4d26-bb9f-072503f566b9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://api.synevo.ua/ua/Dictionary.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DictionaryService.wsdl" MetadataType="Wsdl" ID="bd6c6048-f13b-4e7d-8953-e370833ede33" SourceId="1" SourceUrl="https://api.synevo.ua/ua/Dictionary.svc?wsdl" />
+    <MetadataFile FileName="Dictionary.xsd" MetadataType="Schema" ID="066fb23c-3cb3-4240-827e-f7247303245a" SourceId="1" SourceUrl="https://api.synevo.ua/ua/Dictionary.svc?xsd=xsd0" />
+    <MetadataFile FileName="Dictionary1.xsd" MetadataType="Schema" ID="a94b06ce-7efa-4399-8537-9f68f7566c50" SourceId="1" SourceUrl="https://api.synevo.ua/ua/Dictionary.svc?xsd=xsd2" />
+    <MetadataFile FileName="Dictionary.disco" MetadataType="Disco" ID="f035d57e-e11a-4b7c-958c-7d829e2fad74" SourceId="1" SourceUrl="https://api.synevo.ua/ua/Dictionary.svc?disco" />
+    <MetadataFile FileName="Dictionary2.xsd" MetadataType="Schema" ID="4c22fd5d-af11-40f8-a1b9-d7326dd4b3ed" SourceId="1" SourceUrl="https://api.synevo.ua/ua/Dictionary.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

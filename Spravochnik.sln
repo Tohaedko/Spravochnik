@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spravochnik", "Spravochnik\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{C38CBEFC-5348-4D54-B28B-4BC211C65CF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spravochnik.Tests", "Spravochnik.Tests\Spravochnik.Tests.csproj", "{691BEFD4-5A99-416D-AB00-52AAA7B86939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spravochnik_Api", "Spravochnik_Api\Spravochnik_Api.csproj", "{243FCA30-B03E-4BE6-B786-D3E58AA85FEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C38CBEFC-5348-4D54-B28B-4BC211C65CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C38CBEFC-5348-4D54-B28B-4BC211C65CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C38CBEFC-5348-4D54-B28B-4BC211C65CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691BEFD4-5A99-416D-AB00-52AAA7B86939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691BEFD4-5A99-416D-AB00-52AAA7B86939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691BEFD4-5A99-416D-AB00-52AAA7B86939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691BEFD4-5A99-416D-AB00-52AAA7B86939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243FCA30-B03E-4BE6-B786-D3E58AA85FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243FCA30-B03E-4BE6-B786-D3E58AA85FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243FCA30-B03E-4BE6-B786-D3E58AA85FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243FCA30-B03E-4BE6-B786-D3E58AA85FEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

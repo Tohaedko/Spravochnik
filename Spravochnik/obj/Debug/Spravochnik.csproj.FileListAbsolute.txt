@@ -59,3 +59,67 @@ C:\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Resources.Resource.u
 C:\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
 C:\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\en\Spravochnik.resources.dll
 C:\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\uk\Spravochnik.resources.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\ApplicationInsights.config
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\csc (1).exe
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\csc.exe
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\System.Collections.Immutable (1).dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\vbc.exe
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\VBCSCompiler (1).exe
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Spravochnik.dll.config
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Spravochnik.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Spravochnik.pdb
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\en\Spravochnik.resources.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\uk\Spravochnik.resources.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Antlr3.Runtime.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Newtonsoft.Json.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Helpers.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Mvc.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Optimization.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Razor.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.WebPages.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\WebGrease.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Helpers.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Mvc.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Optimization.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.Razor.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.WebPages.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\bin\Newtonsoft.Json.xml
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Resources.Resource.resources
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Resources.Resource.en.resources
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Resources.Resource.uk.resources
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\en\Spravochnik.resources.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\uk\Spravochnik.resources.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.dll
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache

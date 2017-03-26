@@ -16,7 +16,7 @@ namespace DB
         [Required]
         public string Code { get; set; }
 
-        public virtual ICollection<Service> Services { get; set; }
+        //public virtual ICollection<Service> Services { get; set; }
 
         public virtual ICollection<LocationXLocalization> LocationXLocalizations { get; set; }
 
@@ -24,7 +24,7 @@ namespace DB
 
         public Location()
         {
-            Services = new List<Service>();
+            //Services = new List<Service>();
             LocationXLocalizations = new List<LocationXLocalization>();
             PriceLists = new List<PriceList>();
         }

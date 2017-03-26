@@ -1,0 +1,129 @@
+2017-03-20 00:02:35.0286|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 5
+2017-03-20 00:02:48.3802|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 5
+2017-03-20 00:05:59.4665|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 6
+2017-03-20 00:06:14.1194|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 6
+2017-03-20 00:09:35.8973|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 7
+2017-03-20 00:09:51.3841|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 7
+2017-03-20 00:13:22.8996|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 8
+2017-03-20 00:13:31.7158|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 8
+2017-03-20 00:17:09.6635|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 9
+2017-03-20 00:17:26.4070|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 9
+2017-03-20 00:21:14.3952|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 10
+2017-03-20 00:21:22.2664|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 10
+2017-03-20 00:29:21.6043|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 11
+2017-03-20 00:29:38.1105|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 11
+2017-03-20 00:37:50.2401|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 12
+2017-03-20 00:38:04.4083|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 12
+2017-03-20 00:46:24.6457|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 13
+2017-03-20 00:46:32.6704|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 13
+2017-03-20 00:55:08.7706|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 14
+2017-03-20 00:55:21.9490|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 14
+2017-03-20 01:04:13.8079|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 15
+2017-03-20 01:04:21.6310|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 15
+2017-03-20 01:13:33.8366|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 17
+2017-03-20 01:13:50.3366|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 17
+2017-03-20 01:23:24.4663|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 18
+2017-03-20 01:23:38.6467|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 18
+2017-03-20 01:33:21.3537|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 19
+2017-03-20 01:33:34.5141|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 19
+2017-03-20 01:43:52.8790|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 20
+2017-03-20 01:44:06.1513|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 20
+2017-03-20 01:54:23.9331|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 21
+2017-03-20 01:54:37.6925|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 21
+2017-03-20 02:04:54.3853|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 24
+2017-03-20 02:05:09.1497|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 24
+2017-03-20 02:15:58.8934|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 25
+2017-03-20 02:16:08.5130|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 25
+2017-03-20 02:27:23.0026|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 26
+2017-03-20 02:27:39.7236|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 26
+2017-03-20 02:39:04.1697|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 27
+2017-03-20 02:39:20.7563|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 27
+2017-03-20 02:51:00.4242|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 28
+2017-03-20 02:51:16.6829|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 28
+2017-03-20 03:03:13.4569|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 29
+2017-03-20 03:03:25.0957|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 29
+2017-03-20 03:15:40.8430|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 30
+2017-03-20 03:16:12.3465|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 30
+2017-03-20 20:47:55.1715|TRACE|Spravochnik_Api.UpdateDB|Start update DB
+2017-03-20 20:47:57.1058|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang ru
+2017-03-20 20:47:59.8560|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang ru
+2017-03-20 20:47:59.9773|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang uk
+2017-03-20 20:48:04.3906|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang uk
+2017-03-20 20:48:04.5292|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang en
+2017-03-20 20:48:05.8117|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang en
+2017-03-20 20:48:05.9694|TRACE|Spravochnik_Api.UpdateDB|Try to get medicalServiceGroups for lang uk
+2017-03-20 20:48:07.7353|TRACE|Spravochnik_Api.UpdateDB|Try to save medicalServiceGroups to DB for lang uk
+2017-03-20 20:48:08.1550|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang ru
+2017-03-20 20:48:28.2572|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang ru
+2017-03-20 20:51:06.5597|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang uk
+2017-03-20 20:51:25.3407|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang uk
+2017-03-20 20:53:14.2484|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang en
+2017-03-20 20:53:32.8950|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang en
+2017-03-20 20:55:39.6127|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 1
+2017-03-20 20:55:44.4609|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 1
+2017-03-20 20:58:22.9078|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 2
+2017-03-20 20:58:28.9062|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 2
+2017-03-20 21:01:16.2372|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 3
+2017-03-20 21:01:24.0142|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 3
+2017-03-20 21:04:05.0284|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 4
+2017-03-20 21:04:11.5290|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 4
+2017-03-20 21:06:57.0834|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 5
+2017-03-20 21:07:03.4573|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 5
+2017-03-20 21:09:58.0226|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 6
+2017-03-20 21:10:04.3780|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 6
+2017-03-20 21:13:05.1810|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 7
+2017-03-20 21:13:12.2410|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 7
+2017-03-20 21:16:14.7567|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 8
+2017-03-20 21:16:18.5276|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 8
+2017-03-20 21:19:25.3554|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 9
+2017-03-20 21:19:31.9700|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 9
+2017-03-20 21:22:46.0495|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 10
+2017-03-20 21:22:50.3732|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 10
+2017-03-20 21:26:13.1704|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 11
+2017-03-20 21:26:19.7522|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 11
+2017-03-20 21:29:49.3532|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 12
+2017-03-20 21:29:55.8093|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 12
+2017-03-20 21:33:33.7100|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 13
+2017-03-20 21:33:37.5699|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 13
+2017-03-20 21:37:23.1068|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 14
+2017-03-20 21:37:29.4237|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 14
+2017-03-20 21:41:22.7774|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 15
+2017-03-20 21:41:26.7174|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 15
+2017-03-20 21:45:30.2112|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 17
+2017-03-20 21:45:36.7576|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 17
+2017-03-20 21:49:44.9380|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 18
+2017-03-20 21:49:51.7486|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 18
+2017-03-20 21:54:07.4979|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 19
+2017-03-20 21:54:13.2223|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 19
+2017-03-20 21:58:38.1601|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 20
+2017-03-20 21:58:44.5542|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 20
+2017-03-20 22:03:17.6153|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 21
+2017-03-20 22:03:30.8717|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 21
+2017-03-20 22:08:04.3785|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 24
+2017-03-20 22:08:10.6559|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 24
+2017-03-20 22:12:59.8385|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 25
+2017-03-20 22:13:04.0003|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 25
+2017-03-20 22:18:04.9971|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 26
+2017-03-20 22:18:12.3372|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 26
+2017-03-20 22:23:16.7502|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 27
+2017-03-20 22:23:24.1064|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 27
+2017-03-20 22:28:39.5973|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 28
+2017-03-20 22:28:46.4647|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 28
+2017-03-20 22:34:07.2987|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 29
+2017-03-20 22:34:13.6592|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 29
+2017-03-20 22:39:41.9405|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 30
+2017-03-20 22:39:48.2701|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 30
+2017-03-20 22:45:25.7829|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 31
+2017-03-20 22:45:32.1201|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 31
+2017-03-20 22:51:15.8880|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 32
+2017-03-20 22:51:22.6945|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 32
+2017-03-20 22:57:19.4756|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 33
+2017-03-20 22:57:26.1084|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 33
+2017-03-20 23:03:29.3252|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 37
+2017-03-20 23:03:45.4518|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 37
+2017-03-20 23:10:01.7518|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 38
+2017-03-20 23:10:16.8117|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 38
+2017-03-20 23:16:33.2281|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 39
+2017-03-20 23:17:19.4576|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 39
+2017-03-20 23:23:52.4347|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 41
+2017-03-20 23:24:15.0567|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 41

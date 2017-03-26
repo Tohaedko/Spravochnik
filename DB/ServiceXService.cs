@@ -12,7 +12,9 @@ namespace DB
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public long Id { get; set; }
 
-        public Service ParentServiceId { get; set; }
+        //public Service ParentServiceId { get; set; }
         public Service ComponentServiceId { get; set; }
+
+        public virtual Service ParentServiceId { get; set; }
     }
 }

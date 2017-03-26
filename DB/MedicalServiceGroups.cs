@@ -15,14 +15,19 @@ namespace DB
 
         [Required]
         public string Code { get; set; }
-        
+
+        public string SiteCode { get; set; }
+
         public virtual MedicalServiceGroups ParentGroupId { get; set; }
 
         public virtual ICollection<ServiceXMedicalServiceGroups> ServiceXMedicalServiceGroups { get; set; }
 
+        public virtual ICollection<MedicalServiceGroupsXLocalization> MedicalServiceGroupsXLocalization { get; set; }
+
         public MedicalServiceGroups()
         {
             ServiceXMedicalServiceGroups = new List<ServiceXMedicalServiceGroups>();
+            MedicalServiceGroupsXLocalization = new List<MedicalServiceGroupsXLocalization>();
         }
 
     }

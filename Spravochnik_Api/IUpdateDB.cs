@@ -14,6 +14,6 @@ namespace Spravochnik_Api
         [OperationContract]
         [WebInvoke(BodyStyle = WebMessageBodyStyle.Wrapped, Method = "GET", ResponseFormat = WebMessageFormat.Json, UriTemplate = "UpdateDB")]
 
-        void DoWork();
+        void Update();
     }
 }

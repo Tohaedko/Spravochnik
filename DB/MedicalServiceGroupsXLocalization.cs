@@ -16,7 +16,5 @@ namespace DB
         public string MedicalServiceGroupsName { get; set; }
         public virtual MedicalServiceGroups MedicalServiceGroups { get; set; }
         public virtual Localization Localization { get; set; }
-
-
     }
 }

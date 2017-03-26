@@ -38,3 +38,43 @@ C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik.Tests\bin\Debug\en\S
 C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik.Tests\bin\Debug\uk\Spravochnik.resources.dll
 C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.dll
 C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.pdb
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\ApplicationInsights.config
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\csc (1).exe
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\csc.exe
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\System.Collections.Immutable (1).dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\vbc.exe
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\VBCSCompiler (1).exe
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Spravochnik.Tests.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Spravochnik.Tests.pdb
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Spravochnik.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Razor.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Spravochnik.pdb
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Razor.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\en\Spravochnik.resources.dll
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\uk\Spravochnik.resources.dll
+C:\Git\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.csprojResolveAssemblyReference.cache
+C:\Git\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.dll
+C:\Git\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.pdb

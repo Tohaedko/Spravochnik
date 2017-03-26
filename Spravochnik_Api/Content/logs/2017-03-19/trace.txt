@@ -1,0 +1,58 @@
+2017-03-19 11:06:01.8640|TRACE|Spravochnik_Api.UpdateDB|Start update DB
+2017-03-19 11:06:03.5912|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang ru
+2017-03-19 11:06:04.4602|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang ru
+2017-03-19 11:06:04.6538|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang uk
+2017-03-19 11:06:05.0237|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang uk
+2017-03-19 11:06:05.1778|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang en
+2017-03-19 11:06:05.5475|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang en
+2017-03-19 11:06:05.8360|TRACE|Spravochnik_Api.UpdateDB|Try to get medicalServiceGroups for lang uk
+2017-03-19 11:06:06.3271|TRACE|Spravochnik_Api.UpdateDB|Try to save medicalServiceGroups to DB for lang uk
+2017-03-19 11:06:07.0278|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang ru
+2017-03-19 11:06:24.4521|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang ru
+2017-03-19 11:10:55.5767|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang uk
+2017-03-19 11:11:12.3256|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang uk
+2017-03-19 11:17:45.9281|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang en
+2017-03-19 11:18:04.5619|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang en
+2017-03-19 11:27:05.3201|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 1
+2017-03-19 11:27:09.3665|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 1
+2017-03-19 11:31:35.5870|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 2
+2017-03-19 11:31:41.8360|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 2
+2017-03-19 11:36:28.1880|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 3
+2017-03-19 11:36:34.6967|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 3
+2017-03-19 11:41:40.4278|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 4
+2017-03-19 11:41:47.2144|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 4
+2017-03-19 11:47:10.7243|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 5
+2017-03-19 11:47:17.4324|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 5
+2017-03-19 11:52:58.4160|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 6
+2017-03-19 11:53:04.5706|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 6
+2017-03-19 11:59:03.0099|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 7
+2017-03-19 11:59:10.0412|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 7
+2017-03-19 12:05:19.6381|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 8
+2017-03-19 12:05:23.6573|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 8
+2017-03-19 12:11:42.4029|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 9
+2017-03-19 12:11:48.7956|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 9
+2017-03-19 19:08:00.7859|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 10
+2017-03-19 19:08:12.8131|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 10
+2017-03-19 23:30:48.8843|TRACE|Spravochnik_Api.UpdateDB|Start update DB
+2017-03-19 23:30:50.1967|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang ru
+2017-03-19 23:30:51.0449|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang ru
+2017-03-19 23:30:51.1726|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang uk
+2017-03-19 23:30:51.6364|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang uk
+2017-03-19 23:30:51.7289|TRACE|Spravochnik_Api.UpdateDB|Try to get locations for lang en
+2017-03-19 23:30:52.1451|TRACE|Spravochnik_Api.UpdateDB|Try to save locations to DB for lang en
+2017-03-19 23:30:52.3522|TRACE|Spravochnik_Api.UpdateDB|Try to get medicalServiceGroups for lang uk
+2017-03-19 23:30:52.8494|TRACE|Spravochnik_Api.UpdateDB|Try to save medicalServiceGroups to DB for lang uk
+2017-03-19 23:30:53.3822|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang ru
+2017-03-19 23:31:34.3320|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang ru
+2017-03-19 23:34:47.2555|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang uk
+2017-03-19 23:35:27.6208|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang uk
+2017-03-19 23:42:08.6777|TRACE|Spravochnik_Api.UpdateDB|Try to get services for lang en
+2017-03-19 23:42:49.5673|TRACE|Spravochnik_Api.UpdateDB|Try to save services to DB for lang en
+2017-03-19 23:50:44.0419|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 1
+2017-03-19 23:50:51.6912|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 1
+2017-03-19 23:53:23.2417|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 2
+2017-03-19 23:53:36.5914|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 2
+2017-03-19 23:56:16.2007|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 3
+2017-03-19 23:56:30.2689|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 3
+2017-03-19 23:59:20.0034|TRACE|Spravochnik_Api.UpdateDB|Try to get priceLists for location 4
+2017-03-19 23:59:34.1975|TRACE|Spravochnik_Api.UpdateDB|Try to save priceLists to DB for lang 4

@@ -10,3 +10,19 @@ C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\DB\obj\Debug\DB.pdb
 C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\DB\obj\Debug\DB.Migrations._1.resources
 C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\DB\obj\Debug\DB.csproj.GenerateResource.Cache
 C:\Users\HP\Google Drive\Synevo\dev\Spravochnik\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Git\Spravochnik\DB\bin\Debug\DB.dll.config
+C:\Git\Spravochnik\DB\bin\Debug\DB.dll
+C:\Git\Spravochnik\DB\bin\Debug\DB.pdb
+C:\Git\Spravochnik\DB\bin\Debug\EntityFramework.dll
+C:\Git\Spravochnik\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\Spravochnik\DB\bin\Debug\EntityFramework.xml
+C:\Git\Spravochnik\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._1.resources
+C:\Git\Spravochnik\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+C:\Git\Spravochnik\DB\obj\Debug\DB.dll
+C:\Git\Spravochnik\DB\obj\Debug\DB.pdb
+C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._2.resources
+C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._3.resources
+C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._4.resources
+C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._5.resources
+C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._6.resources

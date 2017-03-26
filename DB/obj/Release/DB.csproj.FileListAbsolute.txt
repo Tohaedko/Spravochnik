@@ -1,0 +1,17 @@
+C:\Git\Spravochnik\DB\bin\Release\DB.dll.config
+C:\Git\Spravochnik\DB\bin\Release\DB.dll
+C:\Git\Spravochnik\DB\bin\Release\DB.pdb
+C:\Git\Spravochnik\DB\bin\Release\EntityFramework.dll
+C:\Git\Spravochnik\DB\bin\Release\EntityFramework.SqlServer.dll
+C:\Git\Spravochnik\DB\bin\Release\EntityFramework.xml
+C:\Git\Spravochnik\DB\bin\Release\EntityFramework.SqlServer.xml
+C:\Git\Spravochnik\DB\obj\Release\DB.Migrations._1.resources
+C:\Git\Spravochnik\DB\obj\Release\DB.Migrations._2.resources
+C:\Git\Spravochnik\DB\obj\Release\DB.Migrations._3.resources
+C:\Git\Spravochnik\DB\obj\Release\DB.Migrations._4.resources
+C:\Git\Spravochnik\DB\obj\Release\DB.Migrations._5.resources
+C:\Git\Spravochnik\DB\obj\Release\DB.Migrations._6.resources
+C:\Git\Spravochnik\DB\obj\Release\DB.csproj.GenerateResource.Cache
+C:\Git\Spravochnik\DB\obj\Release\DB.dll
+C:\Git\Spravochnik\DB\obj\Release\DB.pdb
+C:\Git\Spravochnik\DB\obj\Release\DB.csprojResolveAssemblyReference.cache

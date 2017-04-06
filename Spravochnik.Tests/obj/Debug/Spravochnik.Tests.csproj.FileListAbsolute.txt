@@ -67,7 +67,6 @@ C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Spravochnik.pdb
 C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Mvc.xml
-C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Optimization.xml
 C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.Razor.xml
 C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\System.Web.WebPages.Razor.xml
@@ -78,3 +77,4 @@ C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\uk\Spravochnik.resources.dll
 C:\Git\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.csprojResolveAssemblyReference.cache
 C:\Git\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.dll
 C:\Git\Spravochnik\Spravochnik.Tests\obj\Debug\Spravochnik.Tests.pdb
+C:\Git\Spravochnik\Spravochnik.Tests\bin\Debug\Spravochnik.dll.config

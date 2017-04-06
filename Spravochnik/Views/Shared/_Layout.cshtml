@@ -11,126 +11,154 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
-<header>
-    <div class="navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-                </ul>
-            </div>
-
-            @*<form class="navbar-form navbar-left">
-                <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Search">
-                    <div class="input-group-btn">
-                        <button class="btn btn-default" type="submit">
-                            <i class="glyphicon glyphicon-search"></i>
-                        </button>
-                    </div>
-                </div>
-            </form>*@
-        </div>
-    </div>
-    
-    <div class="container">
-        <div class="header-logo">
-            <a class="header-logo__link" href="/" title="Лабораторный справочник анализов медлаборатории Synevo — перейти на главную страницу">
-                <img class="header-logo__img" src="@Url.Content("~/Content/Images/directory-logo.svg")" alt="Лабораторный справочник анализов медлаборатории Synevo — перейти на главную страницу">
-            </a>
-        </div>
-        <div class="header-slogan">
-            <p class="header-slogan__text">
-                Synevo — европейская сеть медицинских лабораторий в Украине
-            </p>
-        </div>
-        <div class="header-contacts">
-            <p class="header-contacts__text">
-                Информационная служба: <br>
-                <a class="header-contacts__link" href="tel: 044 20 500 20">044 20 500 20</a> (Киев) <br>
-                <a class="header-contacts__link" href="tel: 0 800 50 70 30">0 800 50 70 30</a> (Украина)
-            </p>
-        </div>
-
-    </div>
-  
-    <div class="horizontal-menu">
-        <div class="container">
-            <ul class="horizontal-menu__inner wrap-984">
-                <li class="horizontal-menu__item">
-                    <a class="horizontal-menu__link" href="https://synevo.ua/" target="_blank">О&nbsp;лаборатории </a>
-                </li>
-                <li class="horizontal-menu__item">
-                    <a class="horizontal-menu__link" href="/ru/intro/podgotovka-issled.html">Подготовка к исследованиям</a>
-                </li>
-                <li class="horizontal-menu__item">
-                    <a class="horizontal-menu__link" href="/ru/intro/transporting-biological-material.html">Правила транспортировки биологического материала</a>
-                </li>
-                <li class="horizontal-menu__item">
-                    <a class="horizontal-menu__link" href="/ru/intro/method.html">Методы исследований</a>
-                </li>
-                <li class="horizontal-menu__item">
-                    <a class="horizontal-menu__link" href="/ru/intro/interpretation.html">Об интерпретации результатов</a>
-                </li>
-                <li class="horizontal-menu__item">
-                    <a class="horizontal-menu__link" href="/ru/app/contacts.html">Контакты</a>
+    <header>
+        <div class="navbar-fixed-top">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">@Resources.Resource.MenuButton <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://google.com.ua">@Resources.Resource.MenuItem1</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem2</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem3</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem4</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem5</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem6</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem7</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem8</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem9</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem10</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">@Resources.Resource.MenuItem11</a></li>
+                    </ul>
                 </li>
             </ul>
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                </div>
+
+                @*<form class="navbar-form navbar-left">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search">
+                            <div class="input-group-btn">
+                                <button class="btn btn-default" type="submit">
+                                    <i class="glyphicon glyphicon-search"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>*@
+            </div>
         </div>
-      </div>
-    
-</header>
 
-<div class="container body-content">
-    @RenderBody()
-    <hr/>
-    <div>
-        @using (Html.BeginForm("ChangeCulture", "Home"))
-        {
-            <select name="lang">
-                <option disabled selected>@Resources.Resource.CopyrightText</option>
-                <option value="ru">Русский</option>
-                <option value="en">English</option>
-                <option value="de">Deutsch</option>
-            </select>
-            <input type="submit" name="submit" value="@Resources.Resource.CopyrightText">
-        }
+        <div class="container">
+            <div class="header-logo">
+                <a class="header-logo__link" href="/" title=@Resources.Resource.TitleText>
+                    <img class="header-logo__img" src="@Url.Content("~/Content/Images/directory-logo.svg")" alt=@Resources.Resource.TitleText>
+                </a>
+            </div>
+            <div class="header-slogan">
+                <p class="header-slogan__text">
+                    @Resources.Resource.HeaderSloganText
+                </p>
+            </div>
+            <div class="header-contacts">
+                <p class="header-contacts__text">
+                    @Resources.Resource.HeaderContactsTitle <br>
+                    <a class="header-contacts__link" href="tel: 044 20 500 20">044 20 500 20</a> @Resources.Resource.HeaderContactsKiev <br>
+                    <a class="header-contacts__link" href="tel: 0 800 50 70 30">0 800 50 70 30</a> Resources.Resource.HeaderContactsUkraine
+                </p>
+            </div>
+
+        </div>
+
+        <div class="horizontal-menu">
+            <div class="container">
+                <ul class="horizontal-menu__inner wrap-984">
+                    <li class="horizontal-menu__item">
+                        <a class="horizontal-menu__link" href="https://synevo.ua/" target="_blank">@Resources.Resource.AboutLab@*О&nbsp;лаборатории*@ </a>
+                    </li>
+                    <li class="horizontal-menu__item">
+                        <a class="horizontal-menu__link" href="/ru/intro/podgotovka-issled.html">@Resources.Resource.PreparationForResearch</a>
+                    </li>
+                    <li class="horizontal-menu__item">
+                        <a class="horizontal-menu__link" href="/ru/intro/transporting-biological-material.html">@Resources.Resource.RulesTransportationMaterial</a>
+                    </li>
+                    <li class="horizontal-menu__item">
+                        <a class="horizontal-menu__link" href="/ru/intro/method.html">@Resources.Resource.ResearchMethods</a>
+                    </li>
+                    <li class="horizontal-menu__item">
+                        <a class="horizontal-menu__link" href="/ru/intro/interpretation.html">@Resources.Resource.AboutInterpretation</a>
+                    </li>
+                    <li class="horizontal-menu__item">
+                        <a class="horizontal-menu__link" href="/ru/app/contacts.html">@Resources.Resource.Contacts</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <div>
+            @using (Html.BeginForm("ChangeCulture", "Home"))
+            {
+                <select name="lang">
+                    <option disabled selected>@Resources.Resource.CopyrightText</option>
+                    <option value="ru">Русский</option>
+                    <option value="en">English</option>
+                    <option value="de">Deutsch</option>
+                </select>
+                <input type="submit" name="submit" value="@Resources.Resource.CopyrightText">
+            }
+        </div>
+
     </div>
-
-</div>
-<footer>
-    <p>
-        <a class="footer-to-top" href="#"> Вверх страницы </a>
-    </p>
-    <div class="copyright__text">
-        &copy; @DateTime.Now.Year
-        SYNEVO, Все права защищены
-        <br>
-        <a class="copyright__link" href="https://spravochnik.synevo.ua" target="_blank">Справочник анализов</a>
-        Spravochnik.synevo.ua
-        <br>
-        При использовании материалов сайта активная гиперссылка на Spravochnik.synevo.ua — обязательна.<br>
-        Информация, представленная на данном веб-сайте, является специализированной и предназначена для врачей.<br>
-        Самолечение может навредить Вашему здоровью.
-        <p class="copyright__text">
-            © Copyright @DateTime.Now.Year, сеть медицинских лабораторий «Синэво Украина»,
-            <a class="copyright__link" href="https://synevo.ua" target="_blank">Synevo.ua</a>
+    <footer>
+        <p>
+            <a class="footer-to-top" href="#"> @Resources.Resource.FooterToTop </a>
         </p>
-    </div>
-</footer>
+        <div class="copyright__text">
+            &copy; @DateTime.Now.Year
+            @Resources.Resource.CopyrightText1
+            <br>
+            <a class="copyright__link" href="https://spravochnik.synevo.ua" target="_blank">@Resources.Resource.CopyrightText2</a>
+            Spravochnik.synevo.ua
+            <br>
+            @Resources.Resource.CopyrightText3<br>
+            @Resources.Resource.CopyrightText4<br>
+            @Resources.Resource.CopyrightText5
+            <p class="copyright__text">
+                © Copyright @DateTime.Now.Year, @Resources.Resource.CopyrightText6,
+                <a class="copyright__link" href="https://synevo.ua" target="_blank">Synevo.ua</a>
+            </p>
+        </div>
+    </footer>
 
-@Scripts.Render("~/bundles/jquery")
-@Scripts.Render("~/bundles/bootstrap")
-@RenderSection("scripts", required: false)
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
 </body>
 </html>

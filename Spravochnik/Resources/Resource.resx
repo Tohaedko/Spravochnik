@@ -117,7 +117,97 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AboutInterpretation" xml:space="preserve">
+    <value>Об интерпретации результатов</value>
+  </data>
+  <data name="AboutLab" xml:space="preserve">
+    <value>О лаборатории</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Контакты</value>
+  </data>
   <data name="CopyrightText" xml:space="preserve">
     <value>SYNEVO, Все права защищены</value>
+  </data>
+  <data name="CopyrightText1" xml:space="preserve">
+    <value>SYNEVO, Все права защищены</value>
+  </data>
+  <data name="CopyrightText2" xml:space="preserve">
+    <value>Справочник анализов</value>
+  </data>
+  <data name="CopyrightText3" xml:space="preserve">
+    <value>При использовании материалов сайта активная гиперссылка на Spravochnik.synevo.ua — обязательна.</value>
+  </data>
+  <data name="CopyrightText4" xml:space="preserve">
+    <value>Информация, представленная на данном веб-сайте, является специализированной и предназначена для врачей.</value>
+  </data>
+  <data name="CopyrightText5" xml:space="preserve">
+    <value>Самолечение может навредить Вашему здоровью.</value>
+  </data>
+  <data name="CopyrightText6" xml:space="preserve">
+    <value>сеть медицинских лабораторий «Синэво Украина»</value>
+  </data>
+  <data name="FooterToTop" xml:space="preserve">
+    <value>Вверх страницы</value>
+  </data>
+  <data name="HeaderContactsKiev" xml:space="preserve">
+    <value>(Киев)</value>
+  </data>
+  <data name="HeaderContactsTitle" xml:space="preserve">
+    <value>Информационная служба:</value>
+  </data>
+  <data name="HeaderContactsUkraine" xml:space="preserve">
+    <value>(Украина)</value>
+  </data>
+  <data name="HeaderSloganText" xml:space="preserve">
+    <value>Synevo — европейская сеть медицинских лабораторий в Украине</value>
+  </data>
+  <data name="MenuButton" xml:space="preserve">
+    <value>Меню</value>
+  </data>
+  <data name="MenuItem1" xml:space="preserve">
+    <value>Перечень исследований</value>
+  </data>
+  <data name="MenuItem10" xml:space="preserve">
+    <value>Контакты</value>
+  </data>
+  <data name="MenuItem11" xml:space="preserve">
+    <value>Карта сайта</value>
+  </data>
+  <data name="MenuItem2" xml:space="preserve">
+    <value>О лаборатории</value>
+  </data>
+  <data name="MenuItem3" xml:space="preserve">
+    <value>Правила транспортировки биологического материала</value>
+  </data>
+  <data name="MenuItem4" xml:space="preserve">
+    <value>Методы исследований</value>
+  </data>
+  <data name="MenuItem5" xml:space="preserve">
+    <value>Об интерпретации результатов</value>
+  </data>
+  <data name="MenuItem6" xml:space="preserve">
+    <value>Контроль качества</value>
+  </data>
+  <data name="MenuItem7" xml:space="preserve">
+    <value>Термины</value>
+  </data>
+  <data name="MenuItem8" xml:space="preserve">
+    <value>Литература</value>
+  </data>
+  <data name="MenuItem9" xml:space="preserve">
+    <value>Приложения</value>
+  </data>
+  <data name="PreparationForResearch" xml:space="preserve">
+    <value>Подготовка к исследованиям</value>
+  </data>
+  <data name="ResearchMethods" xml:space="preserve">
+    <value>Методы исследований</value>
+  </data>
+  <data name="RulesTransportationMaterial" xml:space="preserve">
+    <value>Правила транспортировки биологического материала</value>
+  </data>
+  <data name="TitleText" xml:space="preserve">
+    <value>Лабораторный справочник анализов медлаборатории Synevo — перейти на главную страницу</value>
   </data>
 </root>

@@ -67,10 +67,6 @@
     <Compile Include="Migrations\201703172257146_3.Designer.cs">
       <DependentUpon>201703172257146_3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201703181049217_4.cs" />
-    <Compile Include="Migrations\201703181049217_4.Designer.cs">
-      <DependentUpon>201703181049217_4.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\201703181153420_5.cs" />
     <Compile Include="Migrations\201703181153420_5.Designer.cs">
       <DependentUpon>201703181153420_5.cs</DependentUpon>
@@ -102,9 +98,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703172257146_3.resx">
       <DependentUpon>201703172257146_3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703181049217_4.resx">
-      <DependentUpon>201703181049217_4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703181153420_5.resx">
       <DependentUpon>201703181153420_5.cs</DependentUpon>

@@ -23,6 +23,6 @@ C:\Git\Spravochnik\DB\obj\Debug\DB.dll
 C:\Git\Spravochnik\DB\obj\Debug\DB.pdb
 C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._2.resources
 C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._3.resources
-C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._4.resources
 C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._5.resources
 C:\Git\Spravochnik\DB\obj\Debug\DB.Migrations._6.resources
+C:\Git\Spravochnik\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache

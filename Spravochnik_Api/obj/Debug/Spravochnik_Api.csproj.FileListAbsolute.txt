@@ -53,3 +53,4 @@ C:\Git\Spravochnik\Spravochnik_Api\bin\Newtonsoft.Json.xml
 C:\Git\Spravochnik\Spravochnik_Api\bin\NLog.config
 C:\Git\Spravochnik\Spravochnik_Api\bin\NLog.dll
 C:\Git\Spravochnik\Spravochnik_Api\bin\NLog.xml
+C:\Git\Spravochnik\Spravochnik_Api\bin\DB.dll.config

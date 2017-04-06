@@ -117,7 +117,97 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AboutInterpretation" xml:space="preserve">
+    <value>About interpretation of results</value>
+  </data>
+  <data name="AboutLab" xml:space="preserve">
+    <value>About laboratory</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Contacts</value>
+  </data>
   <data name="CopyrightText" xml:space="preserve">
     <value>SYNEVO, All Rights Reserved</value>
+  </data>
+  <data name="CopyrightText1" xml:space="preserve">
+    <value>SYNEVO, All rights reserved</value>
+  </data>
+  <data name="CopyrightText2" xml:space="preserve">
+    <value>Catalog of tests</value>
+  </data>
+  <data name="CopyrightText3" xml:space="preserve">
+    <value>When using the site materials, an active hyperlink to Spravochnik.synevo.ua is required.</value>
+  </data>
+  <data name="CopyrightText4" xml:space="preserve">
+    <value>The information provided on this website is specialized and is intended for physicians.</value>
+  </data>
+  <data name="CopyrightText5" xml:space="preserve">
+    <value>Self-medication can harm your health.</value>
+  </data>
+  <data name="CopyrightText6" xml:space="preserve">
+    <value>network of medical laboratories "Synevo Ukraine"</value>
+  </data>
+  <data name="FooterToTop" xml:space="preserve">
+    <value>Top of page</value>
+  </data>
+  <data name="HeaderContactsKiev" xml:space="preserve">
+    <value>(Kiev)</value>
+  </data>
+  <data name="HeaderContactsTitle" xml:space="preserve">
+    <value>Information service:</value>
+  </data>
+  <data name="HeaderContactsUkraine" xml:space="preserve">
+    <value>(Ukraine)</value>
+  </data>
+  <data name="HeaderSloganText" xml:space="preserve">
+    <value>Synevo — european network of medical laboratories in Ukraine</value>
+  </data>
+  <data name="MenuButton" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="MenuItem1" xml:space="preserve">
+    <value>Catalog of tests</value>
+  </data>
+  <data name="MenuItem10" xml:space="preserve">
+    <value>Contacts</value>
+  </data>
+  <data name="MenuItem11" xml:space="preserve">
+    <value>Site map</value>
+  </data>
+  <data name="MenuItem2" xml:space="preserve">
+    <value>About laboratory</value>
+  </data>
+  <data name="MenuItem3" xml:space="preserve">
+    <value>Rules for the transportation of biological material</value>
+  </data>
+  <data name="MenuItem4" xml:space="preserve">
+    <value>Research methods</value>
+  </data>
+  <data name="MenuItem5" xml:space="preserve">
+    <value>About interpretation of results</value>
+  </data>
+  <data name="MenuItem6" xml:space="preserve">
+    <value>Quality control</value>
+  </data>
+  <data name="MenuItem7" xml:space="preserve">
+    <value>Terms</value>
+  </data>
+  <data name="MenuItem8" xml:space="preserve">
+    <value>Literature</value>
+  </data>
+  <data name="MenuItem9" xml:space="preserve">
+    <value>Applications</value>
+  </data>
+  <data name="PreparationForResearch" xml:space="preserve">
+    <value>Preparation for research</value>
+  </data>
+  <data name="ResearchMethods" xml:space="preserve">
+    <value>Research methods</value>
+  </data>
+  <data name="RulesTransportationMaterial" xml:space="preserve">
+    <value>Rules for the transportation of biological material</value>
+  </data>
+  <data name="TitleText" xml:space="preserve">
+    <value>Synevo laboratory catalog of tests — go to home page</value>
   </data>
 </root>

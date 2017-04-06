@@ -61,11 +61,281 @@ namespace Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Об интерпретации результатов.
+        /// </summary>
+        public static string AboutInterpretation {
+            get {
+                return ResourceManager.GetString("AboutInterpretation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to О лаборатории.
+        /// </summary>
+        public static string AboutLab {
+            get {
+                return ResourceManager.GetString("AboutLab", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Контакты.
+        /// </summary>
+        public static string Contacts {
+            get {
+                return ResourceManager.GetString("Contacts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to SYNEVO, Все права защищены.
         /// </summary>
         public static string CopyrightText {
             get {
                 return ResourceManager.GetString("CopyrightText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SYNEVO, Все права защищены.
+        /// </summary>
+        public static string CopyrightText1 {
+            get {
+                return ResourceManager.GetString("CopyrightText1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Справочник анализов.
+        /// </summary>
+        public static string CopyrightText2 {
+            get {
+                return ResourceManager.GetString("CopyrightText2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to При использовании материалов сайта активная гиперссылка на Spravochnik.synevo.ua — обязательна..
+        /// </summary>
+        public static string CopyrightText3 {
+            get {
+                return ResourceManager.GetString("CopyrightText3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Информация, представленная на данном веб-сайте, является специализированной и предназначена для врачей..
+        /// </summary>
+        public static string CopyrightText4 {
+            get {
+                return ResourceManager.GetString("CopyrightText4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Самолечение может навредить Вашему здоровью..
+        /// </summary>
+        public static string CopyrightText5 {
+            get {
+                return ResourceManager.GetString("CopyrightText5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to сеть медицинских лабораторий «Синэво Украина».
+        /// </summary>
+        public static string CopyrightText6 {
+            get {
+                return ResourceManager.GetString("CopyrightText6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Вверх страницы.
+        /// </summary>
+        public static string FooterToTop {
+            get {
+                return ResourceManager.GetString("FooterToTop", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (Киев).
+        /// </summary>
+        public static string HeaderContactsKiev {
+            get {
+                return ResourceManager.GetString("HeaderContactsKiev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Информационная служба:.
+        /// </summary>
+        public static string HeaderContactsTitle {
+            get {
+                return ResourceManager.GetString("HeaderContactsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (Украина).
+        /// </summary>
+        public static string HeaderContactsUkraine {
+            get {
+                return ResourceManager.GetString("HeaderContactsUkraine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Synevo — европейская сеть медицинских лабораторий в Украине.
+        /// </summary>
+        public static string HeaderSloganText {
+            get {
+                return ResourceManager.GetString("HeaderSloganText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Меню.
+        /// </summary>
+        public static string MenuButton {
+            get {
+                return ResourceManager.GetString("MenuButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Перечень исследований.
+        /// </summary>
+        public static string MenuItem1 {
+            get {
+                return ResourceManager.GetString("MenuItem1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Контакты.
+        /// </summary>
+        public static string MenuItem10 {
+            get {
+                return ResourceManager.GetString("MenuItem10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Карта сайта.
+        /// </summary>
+        public static string MenuItem11 {
+            get {
+                return ResourceManager.GetString("MenuItem11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to О лаборатории.
+        /// </summary>
+        public static string MenuItem2 {
+            get {
+                return ResourceManager.GetString("MenuItem2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Правила транспортировки биологического материала.
+        /// </summary>
+        public static string MenuItem3 {
+            get {
+                return ResourceManager.GetString("MenuItem3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Методы исследований.
+        /// </summary>
+        public static string MenuItem4 {
+            get {
+                return ResourceManager.GetString("MenuItem4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Об интерпретации результатов.
+        /// </summary>
+        public static string MenuItem5 {
+            get {
+                return ResourceManager.GetString("MenuItem5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Контроль качества.
+        /// </summary>
+        public static string MenuItem6 {
+            get {
+                return ResourceManager.GetString("MenuItem6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Термины.
+        /// </summary>
+        public static string MenuItem7 {
+            get {
+                return ResourceManager.GetString("MenuItem7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Литература.
+        /// </summary>
+        public static string MenuItem8 {
+            get {
+                return ResourceManager.GetString("MenuItem8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Приложения.
+        /// </summary>
+        public static string MenuItem9 {
+            get {
+                return ResourceManager.GetString("MenuItem9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Подготовка к исследованиям.
+        /// </summary>
+        public static string PreparationForResearch {
+            get {
+                return ResourceManager.GetString("PreparationForResearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Методы исследований.
+        /// </summary>
+        public static string ResearchMethods {
+            get {
+                return ResourceManager.GetString("ResearchMethods", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Правила транспортировки биологического материала.
+        /// </summary>
+        public static string RulesTransportationMaterial {
+            get {
+                return ResourceManager.GetString("RulesTransportationMaterial", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Лабораторный справочник анализов медлаборатории Synevo — перейти на главную страницу.
+        /// </summary>
+        public static string TitleText {
+            get {
+                return ResourceManager.GetString("TitleText", resourceCulture);
             }
         }
     }
